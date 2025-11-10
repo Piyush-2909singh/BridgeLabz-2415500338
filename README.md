@@ -168,5 +168,5 @@ By November 2025, the blueprint expanded into a **data-connected, object-oriente
 
 ---
 
-**© 2025 — Designed, Built & Documented by [Your Name]**  
+**© 2025 — Designed, Built & Documented by Piyush Singh Tomar**  
 *Under the Bridgelabz Training Program.*
