@@ -29,7 +29,8 @@ Each branch represents a dedicated *“wing”* of the Java architectural plan, 
 To reinforce each phase of learning, this repository also includes **hands-on practice problems** — practical “mini-projects” that strengthen understanding and coding accuracy.  
 They’re divided into two sections: **Assisted Problems** (guided examples) and **Self Problems** (independent builds).
 
-### 📂 Project Structure  
+---
+
 ## 📅 Weekly Java Learning Progress  
 > *"Every great developer starts with the blueprint — and refines it, one week at a time."* 🧱  
 
@@ -134,6 +135,20 @@ They’re divided into two sections: **Assisted Problems** (guided examples) and
 
 ---
 
+### 🗓 **November 3–5, 2025 — Data Integration: Generics, Collections & JDBC**  
+🧰 **Concepts Covered:** Generics | Collections Framework | JDBC  
+🚧 **Blueprint Activities:**  
+- 🧩 Studied **Generics** for type-safe, reusable code  
+- 📚 Explored **Collections Framework** — `List`, `Set`, `Queue`, `Map`  
+- 🧱 Implemented **ArrayList**, **HashSet**, and **HashMap** in real scenarios  
+- 🔄 Integrated **Generics** with **Collections** for reusable data structures  
+- 💾 Learned **JDBC (Java Database Connectivity)** fundamentals  
+- 🔌 Used **DriverManager**, **Connection**, **Statement**, and **ResultSet**  
+- 🧮 Performed **CRUD operations** with **MySQL** database  
+- 🧰 Built **end-to-end logic-to-database integration** modules  
+
+---
+
 ## 🧰 Tech Stack & Tools  
 | **Tool** | **Purpose** |
 |-----------|-------------|
@@ -142,15 +157,16 @@ They’re divided into two sections: **Assisted Problems** (guided examples) and
 | 🧾 **Git & GitHub** | Version control and project management |
 | 🧠 **Command Line / Terminal** | Compilation and execution |
 | 🧩 **Markdown + GitHub Pages** | Documentation and showcase |
+| 🗄️ **MySQL Database** | Backend for JDBC and persistence layer |
 
 ---
 
 ## 🏆 Summary  
 > *“From syntax to systems — this journey transformed code into craft.”*  
 Each week added a new **beam** to the Java structure — turning theoretical learning into practical architecture.  
-By the end of October 2025, the blueprint evolved into a **robust, object-oriented Java foundation**, ready for scalable software design. ☕🏗️
+By November 2025, the blueprint expanded into a **data-connected, object-oriented foundation**, bridging **logic and persistence** for real-world Java development. ☕🏗️  
 
 ---
 
-
-
+**© 2025 — Designed, Built & Documented by [Your Name]**  
+*Under the Bridgelabz Training Program.*
