@@ -31,8 +31,7 @@ public class Student {
     public String getEmail() { return email; }
     public void setEmail(String email) { this.email = email; }
 
-    @Override
-    public String toString() {
-        return String.format("Student{id=%d, name='%s', age=%d, email='%s'}", id, name, age, email);
+
+    
     }
 }
